@@ -1,7 +1,7 @@
-[IG-SL]: https://fouadraheb.com/dl/storage/ipa/1788339843574-tvhcx/com.burbn.instagram_445.0.0_regram_6.1_sl.ipa
-[IG-SL-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1788339843573-4m0ux/com.burbn.instagram_445.0.0_regram_6.1_sl_noplugs.ipa
-[IG-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1788339843572-m5b7s/com.fouadraheb.regram_445.0.0_regram_6.1_sl.ipa
-[IG-TS]: https://fouadraheb.com/dl/storage/ipa/1788339843568-m8rhw/com.burbn.instagram_445.0.0_regram_6.1_ts.ipa
+[IG-SL]: https://fouadraheb.com/dl/storage/ipa/1790010075536-47oja/com.burbn.instagram_447.0.0_regram_6.2_sl.ipa
+[IG-SL-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1790010075535-mkfr8/com.burbn.instagram_447.0.0_regram_6.2_sl_noplugs.ipa
+[IG-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1790010075535-ndbov/com.fouadraheb.regram_447.0.0_regram_6.2_sl.ipa
+[IG-TS]: https://fouadraheb.com/dl/storage/ipa/1790010075532-maf4o/com.burbn.instagram_447.0.0_regram_6.2_ts.ipa
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
@@ -26,10 +26,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     | Application | Bundle | Version | Regram |
     | ------------------ |:---------:|:------:|:------:|
-    | [Instagram][IG-SL] | com.burbn.instagram | 445.0 | 6.1 |
-    | [Instagram - No-Plugins][IG-SL-NoPlugins] | com.burbn.instagram | 445.0 | 6.1 |
-    | [Instagram - Duplicate][IG-SL-Duplicate] | com.fouadraheb.regram | 445.0 | 6.1 |
-    | [Instagram - TrollStore][IG-TS] | com.burbn.instagram | 445.0 | 6.1 |
+    | [Instagram][IG-SL] | com.burbn.instagram | 447.0 | 6.2 |
+    | [Instagram - No-Plugins][IG-SL-NoPlugins] | com.burbn.instagram | 447.0 | 6.2 |
+    | [Instagram - Duplicate][IG-SL-Duplicate] | com.fouadraheb.regram | 447.0 | 6.2 |
+    | [Instagram - TrollStore][IG-TS] | com.burbn.instagram | 447.0 | 6.2 |
 
     <sup>If you have a paid certificate, you need to use original version and sign it with a Distribution/Ad-Hoc certificate to get notifications.</sup>
     
